@@ -1,5 +1,5 @@
- - Feng
- - Shanghai
- - pizza
- - Badminton
- - Green
+ - Name: Feng
+ - City: Shanghai
+ - Favorite Food: pizza
+ - Sports: Badminton
+ - Color: Green
